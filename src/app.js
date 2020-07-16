@@ -125,7 +125,7 @@ app.get('*',(req,res) => {
 // app.com/help
 // app.com/about
 
-app.listen(PORT, () => {
-console.log('Server is up on port ' + PORT)
+app.listen(port, () => {
+console.log('Server is up on port ' + port)
 })
 
