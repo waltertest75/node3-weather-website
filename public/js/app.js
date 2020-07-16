@@ -1,6 +1,6 @@
 //import { response } from "express"
 
-console.log('Client side java scriopt file is loaded')
+
 
 
 
